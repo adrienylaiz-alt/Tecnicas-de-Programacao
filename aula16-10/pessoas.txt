@@ -1,0 +1,20 @@
+Meu nome é Adrieny e minha idade é 20.
+Estudo ADS e aprendo Python.
+Meu nome é Ana e minha idade é 22.
+Gosto de ouvir música.
+Meu nome é Caio e minha idade é 19.
+Estou estudando para uma prova.
+Meu nome é Matheus e minha idade é 21.
+Gosto de tecnologia.
+Meu nome é Maria e minha idade é 25.
+Trabalho com organização.
+Meu nome é João e minha idade é 30.
+Gosto de aprender coisas novas.
+Meu nome é Pedro e minha idade é 18.
+Estou fazendo um curso.
+Meu nome é Julia e minha idade é 24.
+Gosto de ler livros.
+Meu nome é Lucas e minha idade é 27.
+Pratico esportes.
+Meu nome é Beatriz e minha idade é 23.
+Gosto de passar tempo com amigos.
